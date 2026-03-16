@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" height="400">
-  <h1>It's me, Teh !</h1>
+  <h1>It's me, Teh !</h2>
   <div>
     <a href="https://www.linkedin.com/in/wallaceildefonso" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
