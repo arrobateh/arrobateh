@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" alt="Teh" width="500">
+</div>
+
 ## WALLACE ILDEFONSO | DESENVOLVEDOR FULL STACK (EM DESENVOLVIMENTO)
 
 <!--
