@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" height="100">
+  <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" width="700" height="100">
 </div>
 
 ## WALLACE ILDEFONSO | DESENVOLVEDOR FULL STACK (EM DESENVOLVIMENTO)
