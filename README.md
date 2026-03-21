@@ -1,23 +1,21 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" height="400">
-  <h1>It's me, Teh !</h1>
-  <div>
+  
+  <h1>It's me, Teh !<br>
     <a href="https://www.linkedin.com/in/wallaceildefonso" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-    </a>
+     <img src="./icons/linkedin.svg" width="25" height="25">
+      <a/>
     <a href="mailto:wallaceildefonso@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
-    </a>
+      <img src="./icons/gmail.svg" width="25" height="25">
+      <a/>
     <a href="https://wa.me/+5524993352666" target="_blank">
-      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40">
-    </a>
-  </div>
-  <h3>Sou um desenvolvedor fullstack em desenvolvimento</h3>
+      <img src="./icons/whatsapp.svg" width="25" height="25">
+      <a/>
+  </h1>
+  
+ <p>Sou um desenvolvedor fullstack em desenvolvimento</p>
 
   <h3>🛠️ No que estou focado atualmente:</h3>
-  <img src="https://img.shields.io/badge/Lógica_de_Programação-00599C?style=for-the-badge&logo=codeforces&logoColor=white">
-  <img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
+  <img src="./icons/postgresql.svg" width="60" height="60" />
+  <img src="./icons/git.svg" width="60" height="60" />
 </div>
