@@ -8,12 +8,10 @@
     <a href="mailto:wallaceildefonso@gmail.com" target="_blank">
       <img src="./icons/gmail.svg" width="25" height="25">
       <a/>
-    <a href="https://wa.me/+5524993352666" target="_blank">
+    <a href="https://wa.me/+5524993352666_ecard" target="_blank">
       <img src="./icons/whatsapp.svg" width="25" height="25">
       <a/>
   </h1>
-
-  # ecard
   
  <p>Sou um desenvolvedor fullstack em desenvolvimento</p>
 
