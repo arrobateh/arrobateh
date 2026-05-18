@@ -16,6 +16,7 @@
  <p>Sou um desenvolvedor fullstack em desenvolvimento</p>
 
   <h3>🛠️ No que estou focado atualmente:</h3>
-  <img src="./icons/postgresql.svg" width="60" height="60" />
-  <img src="./icons/git.svg" width="60" height="60" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="80" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" height="80" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="80" />
 </div>
